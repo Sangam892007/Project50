@@ -1,0 +1,25 @@
+body{
+    background-color: yellow;
+}
+   
+h1{
+    font-size: xx-large;
+    font-family: Jokerman;
+    color: crimson;
+}
+h2{
+    color:navy;
+    font-size: x-large;
+    font-family:Arial;
+}
+p{
+    color:rebeccapurple;
+    font-size: large;
+    font-family: Gill SAns MT;
+}
+li{
+    color:rebeccapurple;
+    font-size: large;
+    font-family: Gill SAns MT;
+
+}
